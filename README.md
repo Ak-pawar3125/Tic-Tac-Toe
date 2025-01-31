@@ -4,11 +4,11 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 # Features
 
--Interactive 3x3 game grid
--Two-player functionality (X and O)
--Win detection for all possible patterns
--Game draw detection
--Reset and New Game buttons to restart the game
+-Interactive 3x3 game grid<br>
+-Two-player functionality (X and O)<br>
+-Win detection for all possible patterns<br>
+-Game draw detection<br>
+-Reset and New Game buttons to restart the game<br>
 
 # Technologies Used
 
@@ -18,7 +18,7 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 # Game Logic Overview
 
--Players take turns clicking the grid boxes.
+-Players take turns clicking the grid boxes.<br>
 -The game checks for a win after each move by comparing the current state with predefined winning patterns.<br>
 -If all 9 boxes are filled without a winner, the game announces a draw.<br>
 -Use the Reset button to restart the game.<br>

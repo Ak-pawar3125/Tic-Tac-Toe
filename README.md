@@ -12,17 +12,17 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 # Technologies Used
 
--HTML: Structure of the game
--CSS: Styling for a visually appealing layout
--JavaScript: Game logic and interactivity
+-HTML: Structure of the game<br>
+-CSS: Styling for a visually appealing layout<br>
+-JavaScript: Game logic and interactivity<br>
 
 # Game Logic Overview
 
--Players take turns clicking the grid boxes.
--The game checks for a win after each move by comparing the current state with predefined winning patterns.
--If all 9 boxes are filled without a winner, the game announces a draw.
--Use the Reset button to restart the game.
--Use the Start New Game button to refresh the page and begin a new round.
+-Players take turns clicking the grid boxes.<br>
+-The game checks for a win after each move by comparing the current state with predefined winning patterns.<br>
+-If all 9 boxes are filled without a winner, the game announces a draw.<br>
+-Use the Reset button to restart the game.<br>
+-Use the Start New Game button to refresh the page and begin a new round.<br>
 
 # Live Demo & Screen Shots
 

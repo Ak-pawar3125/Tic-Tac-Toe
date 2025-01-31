@@ -19,7 +19,6 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 # Game Logic Overview
 
 -Players take turns clicking the grid boxes.
-
 -The game checks for a win after each move by comparing the current state with predefined winning patterns.<br>
 -If all 9 boxes are filled without a winner, the game announces a draw.<br>
 -Use the Reset button to restart the game.<br>

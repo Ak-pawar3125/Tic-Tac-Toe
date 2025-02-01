@@ -26,10 +26,10 @@ This is a simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScrip
 
 # Live Demo & Screen Shots
 
-Live Demo
+Live Demo :
 
 https://akankshap-tic-tac-toe.netlify.app
  
-Screen Shots
+Screen Shots :
 
 ![alt text](demo.png.png)
